@@ -40,14 +40,14 @@ const fi = (function() {
     },
 
     sortBy : function(array, callback){
-      
+
     },
 
     flatten : function(array, [shallow]){
-      
+
     }
     uniq : function(array, [isSorted], [callback]){
-      
+
     }
     functions: function() {
 
