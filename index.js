@@ -17,13 +17,13 @@ const fi = (function() {
     },
 
     find : function(collection, predicate){
-      
+
     },
 
     filter : function(collection, predicate){
-      
+
     },
-    
+
     functions: function() {
 
     },
