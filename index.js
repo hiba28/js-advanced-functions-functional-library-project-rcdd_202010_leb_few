@@ -49,6 +49,14 @@ const fi = (function() {
     uniq : function(array, [isSorted], [callback]){
 
     }
+
+    keys : function(object){
+      
+    }
+
+    values : function(object){
+      
+    }
     functions: function() {
 
     },
