@@ -57,7 +57,7 @@ const fi = (function() {
     values : function(object){
 
     }
-    functions: function() {
+    functions: function(object) {
 
     },
 
