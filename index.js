@@ -5,14 +5,14 @@ const fi = (function() {
     },
 
     each: function(collection, callback) {
+      callback(alert(coll))
+    },
+
+    map: function(collection, callback) {
 
     },
 
-    map: function() {
-
-    },
-
-    reduce: function() {
+    reduce: function(collection, callback, acc){
 
     },
 
