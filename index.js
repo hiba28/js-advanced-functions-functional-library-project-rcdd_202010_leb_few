@@ -33,7 +33,13 @@ const fi = (function() {
 
     last : function(array, [n]){
 
-    }
+    },
+
+    compact : function(array){
+
+    },
+
+    sortBy : function(array, callback)
     functions: function() {
 
     },
