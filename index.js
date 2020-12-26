@@ -23,7 +23,9 @@ const fi = (function() {
     filter : function(collection, predicate){
 
     },
-
+    size : function(collection){
+      
+    }
     functions: function() {
 
     },
