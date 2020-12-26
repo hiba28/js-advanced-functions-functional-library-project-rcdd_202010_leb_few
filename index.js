@@ -25,6 +25,14 @@ const fi = (function() {
     },
     size : function(collection){
 
+    },
+
+    first : function(array, [n]){
+      
+    },
+
+    last : function(array, [n]){
+      
     }
     functions: function() {
 
