@@ -24,7 +24,7 @@ const fi = (function() {
 
     },
     size : function(collection){
-      
+
     }
     functions: function() {
 
