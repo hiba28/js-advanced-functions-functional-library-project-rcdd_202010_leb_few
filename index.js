@@ -51,11 +51,11 @@ const fi = (function() {
     }
 
     keys : function(object){
-      
+
     }
 
     values : function(object){
-      
+
     }
     functions: function() {
 
